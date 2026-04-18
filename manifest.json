@@ -1,0 +1,15 @@
+{
+  "name": "LOL Messenger ULTRA",
+  "short_name": "LOL Msg",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#070a10",
+  "background_color": "#070a10",
+  "icons": [
+    {
+      "src": "https://iili.io/BWM0dg4.md.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
